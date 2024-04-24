@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\source\\repos\\ProjectApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|c:\\users\\felip\\source\\repos\\projectapi\\projectapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|c:\\users\\felip\\source\\repos\\projectapi\\projectapi\\service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|c:\\users\\felip\\source\\repos\\projectapi\\projectapi\\enums\\turnoemun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\enums\\turnoemun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|c:\\users\\felip\\source\\repos\\projectapi\\projectapi\\enums\\departamentoemun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\enums\\departamentoemun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|c:\\users\\felip\\source\\repos\\projectapi\\projectapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F924680F-2F49-4D78-9FC3-8B95F7193925}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoEmun.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Enums\\TurnoEmun.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Enums\\TurnoEmun.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Enums\\TurnoEmun.cs",
+              "RelativeToolTip": "ProjectApi\\Enums\\TurnoEmun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:38:08.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartamentoEmun.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Enums\\DepartamentoEmun.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Enums\\DepartamentoEmun.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Enums\\DepartamentoEmun.cs",
+              "RelativeToolTip": "ProjectApi\\Enums\\DepartamentoEmun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:36:44.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "ProjectApi\\Models\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:27:33.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeToolTip": "ProjectApi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wCoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:06:11.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\ProjectApi\\ProjectApi\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "ProjectApi\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:05:58.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
